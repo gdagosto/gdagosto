@@ -13,7 +13,7 @@ I'm a fullstack developer and data science enthusiast
 
 ## Skills
 <div class='skills' style='margin-bottom: 5px'>
-  <img src="https://github-readme-stats.vercel.app/api?username=gdagosto&count_private=true&show_icons=true&hide=stars&theme=tokyonight" alt="my github stats" style='width: 400px'/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=gdagosto&theme=tokyonight&show_icons=true&layout=default&langs_count=5" alt="my wakatime stats" style='width: 400px'/>
 </div>
 
 <div class='skills' style='margin-bottom: 5px'>
