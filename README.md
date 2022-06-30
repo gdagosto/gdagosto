@@ -2,10 +2,6 @@
 
 I'm a fullstack developer and data science enthusiast
 
-
-<br/>
-
-## Links
 <div class='row socialMedia'> 
    <a href="https://www.linkedin.com/in/gabriel-dagosto/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style='height: 25px; margin-right: 5px'></a> 
   <a href="https://www.instagram.com/gabrieldagosto/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" style='height: 25px; margin-right: 5px'></a>
